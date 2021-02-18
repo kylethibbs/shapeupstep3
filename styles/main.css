@@ -115,3 +115,10 @@ footer{
 li{
     margin-top: 7px;
 }
+
+/***************************** list items tags*****************************/
+blockquote{
+    border-left: 3px solid maroon;
+    padding: 5px;
+    background-color: rgba(176,196,222, .75);
+}
